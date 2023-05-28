@@ -4,12 +4,11 @@ You are presented with data on the income of employees of the hot rental site fo
 
 ## Task description
 
-• Some of the income lines are not filled in, fill them in <br/>
-• Identify the income formula as a whole and its components <br/>
-• Check that this formula explains the income to the nearest penny <br/>
-• Identify the dependencies between the components of income <br/>
+The detailed description of the input data and problem statement can be found in the file "Description.docx".
 
 ## Project structure
 
-• 'steel_factory.ipynb' - main file with project <br/>
-• 'task_steel_factory.xlsx' - initial xlsx file <br/>
+• 'oil_wells.ipynb' - main file with project <br/>
+• 'Description.docx' - Detailed description and task <br/>
+• 'data.csv' - initial csv file <br/>
+• 'meta.csv' - initial csv file
